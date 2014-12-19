@@ -9,8 +9,8 @@ void handle_init(void) {
 	text_layer = text_layer_create(GRect(0, 0, 144, 154));
 	
 	// Set the text, font, and text alignment
-	text_layer_set_text(text_layer, "Hi, I'm a Pebble!");
-	text_layer_set_font(text_layer, fonts_get_system_font(FONT_KEY_GOTHIC_28_BOLD));
+	text_layer_set_text(text_layer, "G'Day, I'm\n@alecthegeek's Pebble!");
+	text_layer_set_font(text_layer, fonts_get_system_font(FONT_KEY_GOTHIC_24_BOLD));
 	text_layer_set_text_alignment(text_layer, GTextAlignmentCenter);
 	
 	// Add the text layer to the window
