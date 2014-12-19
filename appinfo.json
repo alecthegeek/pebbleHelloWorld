@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "alecclews@gmail.com",
+    "longName": "HelloWorld",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "HelloWorld",
+    "uuid": "23d8209c-2468-4bb6-8782-dffed8a24381",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
